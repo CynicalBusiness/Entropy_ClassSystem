@@ -1,0 +1,19 @@
+name: Entropy_ClassSystem
+version: A1.00.00
+main: me.capit.classes.ClassSystemMain
+
+author: 'Wehttam664 (NukesForKids)'
+
+prefix: Classes
+depend: 
+  - DataShuttleMC
+  
+commands:
+  class:
+    aliases:
+      - c
+    description: Class stuff.
+
+permissions:
+  classes.class:
+    description: Class stuffs.
